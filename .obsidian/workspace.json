@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "t3-tutorial.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "t3-tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "t3-tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "t3-tutorial.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "5e2405e53c2db204",
   "lastOpenFiles": [
+    "README.md",
     "t3-tutorial.md",
     "Pasted image 20230406133815.png",
     "Pasted image 20230406133704.png",
@@ -156,7 +157,6 @@
     "Pasted image 20230406123835.png",
     "node_modules/prisma/engines/659ef412370fa3b41cd7bf6e94587c1dfb7f67e7/query_engine-windows.dll.node",
     "node_modules/prisma/engines/659ef412370fa3b41cd7bf6e94587c1dfb7f67e7",
-    "node_modules/prisma/engines",
-    "README.md"
+    "node_modules/prisma/engines"
   ]
 }
