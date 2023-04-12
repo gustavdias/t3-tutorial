@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "ac325909e3fd015f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b5ce8b64beec4bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61fd721044126033",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "t3-tutorial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5063a872bdf1967",
+    "type": "split",
+    "children": [
+      {
+        "id": "d980fbbcb5bbbd42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82e7921defbe53cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7ed2ac46f3895b6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69b15c4694e700ad",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d26ae5fc605fef22",
+    "type": "split",
+    "children": [
+      {
+        "id": "90287e322418d3d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b1acb5d121d21e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "t3-tutorial.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f5496e7e81199aaa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "t3-tutorial.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ffaefbe20b170022",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "af228346d23295ae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "t3-tutorial.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "61fd721044126033",
+  "lastOpenFiles": [
+    "node_modules/@next/swc-win32-x64-msvc/README.md",
+    "node_modules/@next/swc-win32-x64-msvc/package.json",
+    "node_modules/@next/swc-win32-x64-msvc/next-swc.win32-x64-msvc.node",
+    "node_modules/@next/swc-win32-x64-msvc",
+    "node_modules/next/wasm/@next/swc-wasm-nodejs/wasm_bg.wasm",
+    "node_modules/next/wasm/@next/swc-wasm-nodejs/wasm.d.ts",
+    "node_modules/next/wasm/@next/swc-wasm-nodejs/README.md",
+    "node_modules/next/wasm/@next/swc-wasm-nodejs/package.json",
+    "node_modules/next/wasm/@next/swc-wasm-nodejs/wasm.js",
+    "node_modules/next/wasm/@next/swc-wasm-nodejs",
+    "node_modules/next/wasm/@next",
+    "node_modules/next/wasm",
+    "Pasted image 20230411125423.png",
+    "Pasted image 20230411122803.png",
+    "node_modules/@eslint/js/README.md",
+    "node_modules/@humanwhocodes/object-schema/README.md",
+    "node_modules/@humanwhocodes/object-schema/CHANGELOG.md",
+    "node_modules/postcss-load-config/README.md",
+    "node_modules/webcrypto-core/README.md",
+    "node_modules/snake-case/README.md",
+    "node_modules/asn1js/README.md",
+    "node_modules/pvtsutils/README.md",
+    "node_modules/dot-case/README.md",
+    "node_modules/no-case/README.md",
+    "node_modules/lower-case/README.md",
+    "node_modules/@peculiar/webcrypto/README.md",
+    "node_modules/@peculiar/webcrypto/LICENSE.md",
+    "node_modules/@peculiar/json-schema/README.md",
+    "node_modules/@peculiar/asn1-schema/README.md",
+    "node_modules/to-snake-case/Readme.md",
+    "node_modules/to-snake-case/History.md",
+    "node_modules/to-space-case/Readme.md",
+    "node_modules/to-space-case/History.md",
+    "node_modules/to-no-case/Readme.md",
+    "node_modules/to-no-case/History.md",
+    "node_modules/tailwindcss/node_modules/lilconfig/readme.md",
+    "node_modules/swr/README.md",
+    "node_modules/snakecase-keys/node_modules/type-fest/readme.md",
+    "Pasted image 20230411121834.png"
+  ]
+}

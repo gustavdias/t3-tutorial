@@ -39,3 +39,28 @@ git add -p
 ![[Pasted image 20230406133815.png]]
 
 11:57
+___
+### [Clerk](https://clerk.com/)
+
+```bash
+npm install @clerk/nextjs
+```
+
+##### Get api Keys:
+https://dashboard.clerk.com/apps/app_2OH4qrPPaamSWamGVBvjMBZlj1T/instances/ins_2OH4qw94hFb8aQChHaBAXzl2Op3/api-keys
+
+![[Pasted image 20230411121834.png]]
+
+Vercel:
+
+### [<ClerkProvider />](https://clerk.com/docs/nextjs/configure-clerkprovider)
+
+Wrappi9ng your app with the core provider means that every component in your app has access to  your authentication.
+
+![[Pasted image 20230411122803.png]]
+
+
+### [Middleware](https://clerk.com/docs/nextjs/middleware)
+
+Allows you to have auth in every server request by embedding the auth state inside the request itself.
+![[Pasted image 20230411125423.png]]
