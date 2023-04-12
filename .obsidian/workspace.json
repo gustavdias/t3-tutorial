@@ -148,6 +148,14 @@
   },
   "active": "61fd721044126033",
   "lastOpenFiles": [
+    "src/middleware.ts",
+    "Pasted image 20230411125423.png",
+    "Pasted image 20230411122803.png",
+    "Pasted image 20230411121834.png",
+    "Pasted image 20230406133704.png",
+    "Pasted image 20230406124202.png",
+    "Pasted image 20230406123944.png",
+    "Pasted image 20230406123835.png",
     "node_modules/@next/swc-win32-x64-msvc/README.md",
     "node_modules/@next/swc-win32-x64-msvc/package.json",
     "node_modules/@next/swc-win32-x64-msvc/next-swc.win32-x64-msvc.node",
@@ -160,8 +168,6 @@
     "node_modules/next/wasm/@next/swc-wasm-nodejs",
     "node_modules/next/wasm/@next",
     "node_modules/next/wasm",
-    "Pasted image 20230411125423.png",
-    "Pasted image 20230411122803.png",
     "node_modules/@eslint/js/README.md",
     "node_modules/@humanwhocodes/object-schema/README.md",
     "node_modules/@humanwhocodes/object-schema/CHANGELOG.md",
@@ -184,8 +190,6 @@
     "node_modules/to-no-case/Readme.md",
     "node_modules/to-no-case/History.md",
     "node_modules/tailwindcss/node_modules/lilconfig/readme.md",
-    "node_modules/swr/README.md",
-    "node_modules/snakecase-keys/node_modules/type-fest/readme.md",
-    "Pasted image 20230411121834.png"
+    "node_modules/swr/README.md"
   ]
 }
